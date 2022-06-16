@@ -37,4 +37,5 @@ This is the clone of Myntra website which is an Indian fashion e-commerce compan
 ## Demo Link
 
 https://rohit-clone-myntra.netlify.app/
+![2022-06-16 (1)](https://user-images.githubusercontent.com/95858652/174004947-a0d76f28-4d10-4727-8139-d730135beca6.png)
 
